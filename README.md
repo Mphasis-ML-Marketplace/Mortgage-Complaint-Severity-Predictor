@@ -12,4 +12,4 @@ This is a Natural Language Processing (NLP) based text classification solution t
 * Mphasis HyperGraf is an Omni-channel customer 360 analytics solution. Mphasis HyperGraf is an omnichannel customer 360 analytics solution. Need customized Deep Learning/NLP solutions? Get in touch!
 
 ## Amazon Marketplace Link
-The product can be found [here](https://aws.amazon.com/marketplace/pp/prodview-k5gkd3sm5ckbu)
+The product can be found [here](https://aws.amazon.com/marketplace/pp/prodview-ssmuwvq6cg67o)
